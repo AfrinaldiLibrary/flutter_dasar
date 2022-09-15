@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974472665998",
+    "firebase_url": "https://cafants-6831c-default-rtdb.firebaseio.com",
+    "project_id": "cafants-6831c",
+    "storage_bucket": "cafants-6831c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974472665998:android:351cfeed7660611c8422df",
+        "android_client_info": {
+          "package_name": "com.afrinaldi.fluttertrain.flutter_dasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974472665998-8gsuof4r5l9eou1ia00c6e3rm5ffubjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afrinaldi.fluttertrain.flutter_dasar",
+            "certificate_hash": "e061333cc30220587415b380cce2ae3dfab8ab94"
+          }
+        },
+        {
+          "client_id": "974472665998-iotl2k4v4cgdsmobn35cq8lk7cu8b4jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBYRbLm-pUAEMQ0Ngy74IGX1fwAuXYXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974472665998-iotl2k4v4cgdsmobn35cq8lk7cu8b4jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
